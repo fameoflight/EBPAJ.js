@@ -1,2 +1,2 @@
 # EBPAJ.js
-JavaScript for creating EBPAJ EPUB 3 file
+JavaScript library for creating EBPAJ EPUB 3 files
